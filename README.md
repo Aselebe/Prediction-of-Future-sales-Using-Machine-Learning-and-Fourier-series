@@ -1,1 +1,9 @@
 Prediction-of-Future-sales-Using-Machine-Learning-and-Fourier-series
+
+
+This project is dedicated to resolving logistical and inventory challenges, primarily optimising supply chain operations and item distribution. Distinct from sales and marketing endeavours, the project centres on predictive analytics to ascertain the number of items required from suppliers and their subsequent distribution to shops. Employing machine learning techniques, the project aims to predict future sales trends, facilitating efficient logistics and holistic trend comprehension.
+Through comprehensive analysis of historical sales data, appropriate attributes are identified and integrated into predictive models. These models are important in aiding critical decisions encompassing inventory management, resource allocation, budgeting, marketing strategies, and broader business planning, catering to operational and strategic dimensions.
+The core objective is to deliver precise predictions of item quantities within specified timeframes tailored to individual shops and distinct product categories. By methodically selecting appropriate methodologies and machine learning algorithms, including Fourier series and various regression techniques, the project culminates in an empirical evaluation to assess algorithm efficacy.
+The project's findings underscore the accuracy of the Fourier Series, Extreme Gradient Boosting, Gradient Boosting, and Random Forest Regression, demonstrating their potential to reshape inventory management, streamline logistics, and provide actionable insights for strategic decision-making. Ultimately, this project offers a comprehensive solution to enhance operational efficiency and profitability through an interdisciplinary approach at the intersection of data science and business management.
+Keywords: Sales prediction, Fourier Series, Time series forecasting, Machine-learning Techniques
+
